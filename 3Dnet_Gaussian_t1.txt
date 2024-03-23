@@ -1,0 +1,3 @@
+np_seed = 20922295
+5 points. 
+    iid Bayes: 1.08e+00 (±0.00e+00), 7.01e+00s, 0 fails
